@@ -277,7 +277,7 @@ Media Query for MOBILE - Adjust positioning
 Attribution Styles
 ##############################*/
 footer {
-  position: absolute;
+  position: fixed;
   width: 100%;
   bottom: 2px;
   left: 50%;
