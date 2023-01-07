@@ -27,7 +27,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 ![](./screenshot.png)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://strong-elf-9e8e8b.netlify.app
 
 
 ## My process
