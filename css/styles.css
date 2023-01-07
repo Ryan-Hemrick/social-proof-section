@@ -292,7 +292,7 @@ footer {
   transform: translateX(-50%);
   font-size: 11px;
   text-align: center;
-  color: var(--clr-white);
+  color: var(--clr-magenta-neutral);
   z-index: -1;
 }
 footer .attribution a {
