@@ -45,7 +45,7 @@ Font Styles
 h1 {
   color: var(--clr-magenta-dark);
   font-weight: 700;
-  font-size: 3.125rem;
+  font-size: 3.25rem;
 
   line-height: 0.85;
   letter-spacing: -0.063rem;
