@@ -47,6 +47,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 ### What I learned
 - How to work with more complex flexbox layouts that contain nested flex containers.
 - How to approach a project with a more complex layout; understanding which elements need to be flex containers and how they should behave with relation to the other elements on the page
+- How to utilize semantic HTML to define a testimonial item, instead of just using div elements
 
 
 ### Continued development
