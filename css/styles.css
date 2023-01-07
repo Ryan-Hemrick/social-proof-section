@@ -8,7 +8,6 @@
 }
 
 
-
 /*############################
 General Styles
 ##############################*/
@@ -23,7 +22,6 @@ body {
   background-size: auto;
   background-repeat: no-repeat;
   background-position: 0 0, 100% 100%;
-  
 
   font-family: var(--ff-league-spartan);
   font-weight: 400;
@@ -96,8 +94,6 @@ Top Section Styles
 
 /* Flex Item (2) - Top Section */
 .social__ratings {
-  flex-basis: 500px;
-
   /* Using flexbox to stack the social__ratings and allow for flex-end alignment */
   flex-direction: column;
   display: flex;
@@ -199,7 +195,6 @@ Bottom Section Styles
 
 
 
-
 /*############################
 Media Query for MOBILE - Adjust positioning
 ##############################*/
@@ -227,8 +222,7 @@ Media Query for MOBILE - Adjust positioning
   }  
 
   /* Remove the flex-basis that was set to match the design spec */
-  .social__blurb,
-  .social__ratings {
+  .social__blurb {
     flex-basis: auto;
   }
 
