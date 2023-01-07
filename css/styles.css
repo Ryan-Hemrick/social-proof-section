@@ -175,15 +175,15 @@ Bottom Section Styles
   width: 40px;
 }
 
-.author__info span {
+.author__tag {
   display: block;
   color: var(--clr-pink);
 }
-.author__info,
-.social__testimonial__quote {
+.author__name,
+.social__testimonial__quote p {
   color: var(--clr-white);
 }
-.social__testimonial__quote {
+.social__testimonial__quote p {
   font-weight: 400;
 }
 
