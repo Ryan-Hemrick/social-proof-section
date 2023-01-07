@@ -176,7 +176,6 @@ Bottom Section Styles
 }
 
 .author__tag {
-  display: block;
   color: var(--clr-pink);
 }
 .author__name,
