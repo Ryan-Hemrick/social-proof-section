@@ -42,7 +42,7 @@ img {
 Font Styles
 ##############################*/
 
-h2 {
+h1 {
   color: var(--clr-magenta-dark);
   font-weight: 700;
   font-size: 3rem;
@@ -267,7 +267,7 @@ Media Query for MOBILE - Adjust positioning
   .blurb__text {
     font-size: 1.125rem;
   }
-  h2 {
+  h1 {
     font-size: 2.5rem;
   }
 }
